@@ -125,10 +125,10 @@
     buffer-layout "^1.2.0"
     dotenv "10.0.0"
 
-"@solana/web3.js@^1.17.0", "@solana/web3.js@^1.21.0":
-  version "1.24.1"
-  resolved "https://registry.yarnpkg.com/@solana/web3.js/-/web3.js-1.24.1.tgz#1fb29f344454669183206f452ab3b8792567cade"
-  integrity sha512-XImMWAvjcXteMQwe1FFjoe6u72xmcu+UYobPIxLEMX29XXWVTalyYRKBXvcOXwz6DliTYnFXmncNEwUDEFFHGg==
+"@solana/web3.js@^1.17.0", "@solana/web3.js@^1.21.0", "@solana/web3.js@^1.24.3":
+  version "1.24.3"
+  resolved "https://registry.yarnpkg.com/@solana/web3.js/-/web3.js-1.24.3.tgz#bcc266c3e018c7af00e19b84f39a8471af365150"
+  integrity sha512-l31NUhvT7VCKXAOEcTjxCPPMPCkfxPFCnMB5nPY8iJ2Swti1r2j+5nWVBLFtAlRHkazkziDVSgg/zh4y8qSGCw==
   dependencies:
     "@babel/runtime" "^7.12.5"
     "@solana/buffer-layout" "^3.0.0"
